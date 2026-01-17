@@ -1,3 +1,4 @@
+![logo](https://github.com/Anant-Goel2006/Employee_Management_System_Project_Django/blob/master/Screenshot%202026-01-17%20135355.png)
 # 🏢 Employee Management System (EMS) using Django
 
 A full-stack **Employee Management System** built using **Python & Django** that allows administrators to manage employee records efficiently with secure authentication and a structured backend workflow.
